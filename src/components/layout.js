@@ -36,7 +36,7 @@ const Layout = ({children}) => {
                         <div className="container mx-auto px-4">
                             <div className='flex justify-between'>
                                 <div className="mr-2">
-                                    <a href="https://github.com/howToCodeWell/code-challenges" target={'_blank'}
+                                    <a href="https://github.com/howToCodeWell/how-to-ask-a-question" target={'_blank'}
                                        rel="noopener noreferrer">Edit</a>
                                 </div>
                                 <div className="m2">
